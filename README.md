@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
   <img src="https://img.shields.io/badge/SDD-Sustainable%20Development%20Driven-2ea44f?style=for-the-badge&logo=forest&logoColor=white" alt="SDD Badge"/>
   <img src="https://img.shields.io/badge/Contract--First-Architecture-FF6F61?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Contract First"/>
@@ -31,7 +31,7 @@
 </p>
 
 ---
-
+```markdown
 ## ✨ ¿Por qué SDD?
 
 **AI Contract Architect** es un framework **Contract‑First** para colaborar con inteligencia artificial **sin generar deuda técnica**. Convierte la interacción humano‑IA en un **Desarrollo Basado en Constitución (Contract.md)**, incorporando gobernanza, límites arquitectónicos y auditoría continua.
@@ -41,7 +41,7 @@
 - 🧠 **Memoria compactada**: protocolos de resumen del contexto para evitar alucinaciones y mantener el foco.
 
 ## 📦 Flujo del producto
-
+``` 
 ```mermaid
 graph LR
     A[Ingesta: URL / texto] --> B[Generación Contract.md]
@@ -52,7 +52,7 @@ graph LR
     F -->|Conforme| G[Implementación]
     F -->|No conforme| D
 ```
-
+```markdown
 1. **Ingesta y alineación**  
    Analiza una URL de GitHub (a través de **Jina Reader**) o texto libre para generar un `Contract.md` ajustado al contexto.
 
@@ -89,7 +89,7 @@ git clone https://github.com/tu-usuario/ai-contract-architect.git
 cd ai-contract-architect
 npm install
 ```
-
+```markdown
 ### 3. Configurar variables de entorno
 
 Crea un archivo `.env` en la raíz del proyecto con el siguiente contenido:
