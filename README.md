@@ -42,7 +42,7 @@ graph LR
     F -->|Conforme| G[Implementación]
     F -->|No conforme| D
 ```
-```markdown
+
 1. **Ingesta y alineación**  
    Analiza una URL de GitHub (a través de **Jina Reader**) o texto libre para generar un `Contract.md` ajustado al contexto.
 
@@ -162,7 +162,7 @@ Puedes encontrarme en:
   <a href="https://github.com/charran78"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/pedro-menc%C3%ADas-68223336b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://pedromencias.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-  <a href="mailto:tu@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:beyond.digital.web@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://buymeacoffee.com/beyonddigiv"><img src="https://img.shields.io/badge/buymeacoffee-D14836?style=for-the-badge&logo=buymeacoffee&logoColor=white"/></a>
 </p>
 
@@ -179,4 +179,3 @@ Distribuido bajo la licencia MIT. Ver `LICENSE` para más información.
   <br/>
   <sub>✨ <strong>AI Contract Architect</strong> – donde la arquitectura y la IA firman la paz. ✨</sub>
 </div>
-```
