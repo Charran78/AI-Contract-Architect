@@ -20,18 +20,8 @@
   <em>“El código es efímero, la arquitectura es eterna. Firma tu contrato hoy.”</em></p>
 </div>
 
-<p align="center">
-  <a href="#-por-qué-sdd">✨ Por qué SDD</a> •
-  <a href="#-flujo-del-producto">📦 Flujo</a> •
-  <a href="#-stack-técnico">🛠️ Stack</a> •
-  <a href="#-puesta-en-marcha">🚀 Empezar</a> •
-  <a href="#-scripts-clave">📜 Scripts</a> •
-  <a href="#-seguridad-y-gobernanza">🔒 Seguridad</a> •
-  <a href="#-manifiesto-sdd">📜 Manifiesto</a>
-</p>
-
 ---
-```markdown
+
 ## ✨ ¿Por qué SDD?
 
 **AI Contract Architect** es un framework **Contract‑First** para colaborar con inteligencia artificial **sin generar deuda técnica**. Convierte la interacción humano‑IA en un **Desarrollo Basado en Constitución (Contract.md)**, incorporando gobernanza, límites arquitectónicos y auditoría continua.
@@ -41,7 +31,7 @@
 - 🧠 **Memoria compactada**: protocolos de resumen del contexto para evitar alucinaciones y mantener el foco.
 
 ## 📦 Flujo del producto
-``` 
+
 ```mermaid
 graph LR
     A[Ingesta: URL / texto] --> B[Generación Contract.md]
@@ -169,10 +159,11 @@ src/
 Puedes encontrarme en:
 
 <p align="center">
-  <a href="https://github.com/tu-usuario"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/tu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://tu-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="https://github.com/charran78"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/pedro-menc%C3%ADas-68223336b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://pedromencias.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/></a>
   <a href="mailto:tu@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://buymeacoffee.com/beyonddigiv"><img src="https://img.shields.io/badge/buymeacoffee-D14836?style=for-the-badge&logo=buymeacoffee&logoColor=white"/></a>
 </p>
 
 ---
@@ -184,7 +175,7 @@ Distribuido bajo la licencia MIT. Ver `LICENSE` para más información.
 ---
 
 <div align="center">
-  <sub>Hecho con ❤️ y ☕ por <a href="https://github.com/tu-usuario">Tu Nombre</a></sub>
+  <sub>Hecho con ❤️ y ☕ por <a href="https://github.com/charran78">Pedro Mencías</a></sub>
   <br/>
   <sub>✨ <strong>AI Contract Architect</strong> – donde la arquitectura y la IA firman la paz. ✨</sub>
 </div>
